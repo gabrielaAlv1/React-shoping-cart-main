@@ -1,5 +1,5 @@
 # React-shoping-cart-main
-###Shopping cart framework in orther to track user activity 
+Shopping cart framework in orther to track user activity 
 
 This project was possible thanks to [Create React App](https://github.com/facebook/create-react-app).
 
